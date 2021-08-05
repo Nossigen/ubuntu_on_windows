@@ -22,8 +22,10 @@ REM winget install -e --id LogMeIn.LastPass
 winget install -e --id WinSCP.WinSCP
 winget install -e --id ONLYOFFICE.DesktopEditors
 winget install -e --id Automattic.Simplenote
-
+winget install -e --id 7zip.7zip
+wsl --install
 ```
+
 # Manual install
 
 - [CopyQ](https://hluk.github.io/CopyQ/)
