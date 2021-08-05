@@ -17,7 +17,17 @@ winget install -e --id GitHub.cli
 winget install -e --id ProtonTechnologies.ProtonMailBridge
 winget install -e --id ChristianAviBulan.GlassCannon
 winget install -e --id Figma.Figma
+REM LastPass installation is failing for some reasons
+REM winget install -e --id LogMeIn.LastPass
+winget install -e --id WinSCP.WinSCP
+winget install -e --id ONLYOFFICE.DesktopEditors
+winget install -e --id Automattic.Simplenote
+
 ```
+# Manual install
+
+- [CopyQ](https://hluk.github.io/CopyQ/)
+
 
 # How to install
 
