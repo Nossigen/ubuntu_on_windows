@@ -23,6 +23,7 @@ winget install -e --id WinSCP.WinSCP
 winget install -e --id ONLYOFFICE.DesktopEditors
 winget install -e --id Automattic.Simplenote
 winget install -e --id 7zip.7zip
+winget install -e --id Docker.DockerDesktop
 wsl --install
 ```
 
