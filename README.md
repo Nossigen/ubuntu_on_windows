@@ -31,6 +31,7 @@ wsl --install
 
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Stardock software](https://www.stardock.com/products/odnt/)
+- Download and install your font [Nerd fonts](https://www.nerdfonts.com/font-downloads)
 
 # How to install
 
