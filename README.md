@@ -39,6 +39,7 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.Bra
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Stardock software](https://www.stardock.com/products/odnt/)
 - Download and install your font [Nerd fonts](https://www.nerdfonts.com/font-downloads)
+- [Git bash](https://git-scm.com/downloads)
 
 # How to install
 
