@@ -27,7 +27,14 @@ winget install -e --id Docker.DockerDesktop
 wsl --install
 ```
 
+Browser pack:
+```
+winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.BraveBrowser -e  && winget install --id=Opera.Opera -e  && winget install --id=VivaldiTechnologies.Vivaldi -e  && winget install --id=Mozilla.FirefoxDeveloperEdition -v "91.0b4" -e  && winget install --id=Opera.OperaGX -e && winget install -e --id Google.Chrome
+```
+
 # Manual install
+
+
 
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Stardock software](https://www.stardock.com/products/odnt/)
