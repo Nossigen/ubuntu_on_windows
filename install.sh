@@ -1,7 +1,7 @@
 #!/bin/sh
 
-sudo apt update
-sudo apt upgrade
+sudo apt update 
+sudo apt upgrade -y
 
 sudo apt remove apache2
 sudo apt install -y python3 python3-pip
