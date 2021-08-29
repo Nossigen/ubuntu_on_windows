@@ -4,6 +4,8 @@ Base installation to code with Linux on Windows 11
 
 # Windows packages
 
+If you don't have winget, download and run the .msixbundle [here](https://github.com/microsoft/winget-cli/releases) to install, and reboot.
+
 Open cmd and run:
 ```cmd
 winget install vivaldi
@@ -42,7 +44,6 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.Bra
 
 First thing to do is to install Ubuntu on widows. To do it, you need to:
 
-
 # Final step
 
 On ubuntu terminal run:
@@ -51,4 +52,4 @@ git clone [this repo]
 chmod +x [this_repo]/install.sh
 ./[this_repo]/install.sh
 
-Now  reboot your computer and everything should work !
+Reboot, done !
