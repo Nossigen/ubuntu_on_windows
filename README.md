@@ -25,6 +25,7 @@ winget install -e --id ONLYOFFICE.DesktopEditors
 winget install -e --id Automattic.Simplenote
 winget install -e --id 7zip.7zip
 winget install -e --id Docker.DockerDesktop
+winget install -e --id XMind.XMind2020
 wsl --install
 ```
 
