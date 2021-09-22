@@ -8,7 +8,7 @@ If you don't have winget, download and run the .msixbundle [here](https://github
 
 Open cmd and run:
 ```cmd
-winget install vivaldi
+winget install -e --id=VivaldiTechnologies.Vivaldi
 winget install -e --id Notepad++.Notepad++
 winget install -e --id JetBrains.PHPStorm
 winget install ubuntu
@@ -31,7 +31,7 @@ wsl --install
 
 Browser pack:
 ```
-winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.BraveBrowser -e  && winget install --id=Opera.Opera -e  && winget install --id=VivaldiTechnologies.Vivaldi -e  && winget install --id=Mozilla.FirefoxDeveloperEdition -v "91.0b4" -e  && winget install --id=Opera.OperaGX -e && winget install -e --id Google.Chrome
+winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.BraveBrowser -e  && winget install --id=Opera.Opera -e && winget install --id=Mozilla.FirefoxDeveloperEdition -v "91.0b4" -e  && winget install --id=Opera.OperaGX -e && winget install -e --id Google.Chrome
 ```
 
 # Manual install
@@ -40,6 +40,7 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=BraveSoftware.Bra
 - [Stardock software](https://www.stardock.com/products/odnt/)
 - Download and install your font [Nerd fonts](https://www.nerdfonts.com/font-downloads)
 - [Git bash](https://git-scm.com/downloads)
+- [Vagrant](https://www.vagrantup.com)
 
 # How to install
 
